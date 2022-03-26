@@ -1,0 +1,3 @@
+nombre_completo = "Hernan Meza"
+print("hola prog1, soy ") 
+print(nombre_completo)
